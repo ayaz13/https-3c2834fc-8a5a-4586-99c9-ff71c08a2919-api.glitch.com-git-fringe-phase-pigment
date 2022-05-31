@@ -1,3 +1,0 @@
-#BLACKBLVEE = Mehmet Şahin Discord Botu Altyapısı
-
-YOUTUBE: BlackBlvee!

@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 
 exports.run = (client, message, args) => {
-  if (message.author.id !== "Kendi Id") return message.reply(':no_entry: Sahibim Sen Değilsin');
+  if (message.author.id !== "Kendi Id") return message.reply(' Sahibim Sen Değilsin');
    message.channel.send('İstediğin Sunucudan Ayrıldım Sahibım');
    message.guild.leave()
 };
