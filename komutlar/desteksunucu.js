@@ -8,7 +8,7 @@ exports.run = async (client, message, params, args) => {
     .setColor(0x36393e)
     .setAuthor(`RTX-Bot`, client.user.avatarURL)
     .setThumbnail(client.user.avatarURL)
-    .addField("Linkler", `Destek Sunucusu [TIKLA](https://discord.gg/s5Bd9J7)`)
+    .addField("Linkler", `Destek Sunucusu [TIKLA](https://discord.gg/aMRNgjFFe5)`)
     .setFooter(
       `${message.author.username} tarafından istendi. |`,
       message.author.avatarURL
