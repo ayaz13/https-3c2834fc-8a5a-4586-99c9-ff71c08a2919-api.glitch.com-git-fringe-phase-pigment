@@ -13,11 +13,11 @@ exports.run = (client, message, params) => {
     )
     .addField(
       "» Linkler",
-      `[Bot Davet Linki](https://discordapp.com/oauth2/authorize?client_id=662355232591970321&scope=bot&permissions=805314622)` +
+      `[Bot Davet Linki](https://discord.com/oauth2/authorize?client_id=845639955640483851&scope=bot&permissions=27648860222)` +
         "**\n**" +
-        `[Bota Oyver](https://botsfordiscord.com/bot/650739604789395476/vote)` +
+      
         "**\n**" +
-        `[Destek Sunucusu](https://discord.gg/AHe4u4m)`,
+      `[Destek Sunucusu](https://discord.gg/aMRNgjFFe5)`,
       false
     )
     .setFooter("Kill siwitch | Yardım Komutları");
